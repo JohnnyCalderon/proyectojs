@@ -1,3 +1,3 @@
 [{"nombre ": "avatar1", "ruta":"imagenes/avatar1.jpg"},
     {"nombre ": "avatar2", "ruta":"imagenes/avatar2.png"},
-    {"nombre ": "avatar3", "ruta":"../imagenes/avatar3.png"}]
+    {"nombre ": "avatar3", "ruta":"imagenes/avatar3.png"}]
